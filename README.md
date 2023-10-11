@@ -1,7 +1,7 @@
-<h1 align="center"> 🎨 Example of connecting to the MySql database using C# 😄</h1>
+<h1 align="center"> Example of connecting to the MySql database using C# 😄</h1>
 
 <p align="center">
-    <img src="./_src/theme.png">
+    <img src="./_src/sql.png">
 </p>
 
 <p align="center">
