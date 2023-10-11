@@ -28,7 +28,7 @@ https://api.nuget.org/v3/index.json
 
 Connection example for MySql:
 ~~~
-
+string connectionString = "server=localhost;port=3306;database=SEU_BANCO;uid=SEU_USER;password=SUA_SENHA";
 ~~~
 
 <h2 id=installation>✔️ Installation</h2>
